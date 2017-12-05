@@ -4,6 +4,6 @@ The Outfit platform is a safe environment in which users are able to create and 
 
 Team Members: Mohammed Syed, Makoto Kinoshita, Otto Nagengast, Omid Rooholfada, and Ryan Clyde.
 
-The backend for our application is stored in a seperate repo located here: https://github.com/mohammad-gitup/AngelHackBackEnd/
+The mobile app frontend is written in React Native, while the backend uses ExpressJS and leverages the Clarifai Vision API. The backend for is stored in a seperate repo located here: https://github.com/mohammad-gitup/AngelHackBackEnd/
 
 Hope you like our product!
